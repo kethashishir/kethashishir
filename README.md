@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/kethashishir" target="blank"><img src="https://img.shields.io/twitter/follow/kethashishir?logo=twitter&style=for-the-badge" alt="kethashishir" /></a> </p>
 
-- 🔭 I’m currently working on **AI Bounce BAll Game**
+- 🔭 I’m currently working on **F1 Race Prediction Model**
 
-- 🌱 I’m currently learning **Spring, Rust**
+- 🌱 I’m currently learning **Machine Learning, Data Science**
 
-- 💬 Ask me about **Angular, Java**
+- 💬 Ask me about **Python, ML Models**
 
 - 📫 How to reach me **kethashishir@gmail.com**
 
