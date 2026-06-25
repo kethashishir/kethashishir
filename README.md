@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/kethashishir" target="blank"><img src="https://img.shields.io/twitter/follow/kethashishir?logo=twitter&style=for-the-badge" alt="kethashishir" /></a> </p>
 
-- 🔭 I’m currently working on **F1 Race Prediction Model**
+- 🔭 I’m currently working on **Pitwall-Lakehouse**
 
 - 🌱 I’m currently learning **Machine Learning, Data Science**
 
 - 💬 Ask me about **Python, ML Models**
 
 - 📫 How to reach me **kethashishir@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
